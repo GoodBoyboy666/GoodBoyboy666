@@ -14,7 +14,7 @@
 
 **Favorite Editor/IDE :**
 
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Static Badge](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=VisualStudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/GNU%20nano-673AB7?style=for-the-badge&logo=nano&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Static Badge](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=VisualStudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/GNU%20nano-673AB7?style=for-the-badge&logo=nano&logoColor=white) ![Static Badge](https://img.shields.io/badge/Android%20Studio-34A853?style=for-the-badge&logo=android&logoColor=white) ![Static Badge](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 **Interest :**
 
@@ -22,15 +22,20 @@
 
 **Favorite Programming Language :**
 
-![Static Badge](https://img.shields.io/badge/C%23-4CAF50?style=for-the-badge&logo=csharp&logoColor=white) ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/C%23-4CAF50?style=for-the-badge&logo=csharp&logoColor=white) ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 **Favorite APPs :**
 
-![Static Badge](https://img.shields.io/badge/Keepassxc-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white) ![Static Badge](https://img.shields.io/badge/Gnu%20Privacy%20Guard-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white) ![Static Badge](https://img.shields.io/badge/Thunderbird-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white) ![Static Badge](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Keepassxc-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white) ![Static Badge](https://img.shields.io/badge/Gnu%20Privacy%20Guard-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white) ![Static Badge](https://img.shields.io/badge/Thunderbird-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white) ![Static Badge](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![Static Badge](https://img.shields.io/badge/7Zip-000000?style=for-the-badge&logo=7zip&logoColor=white)
 
 **Favorite OS :**
 
 ![Static Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Static Badge](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+
+**Favorite Server Management Tool :**
+
+![Static Badge](https://img.shields.io/badge/1Panel-0854C1?style=for-the-badge&logo=1panel&logoColor=white)
 
 # 
 
